@@ -21,7 +21,7 @@ if __name__=='__main__':
     Dhaval->Bhavin->20,
     Mando->Cara->45
     '''
-    difficulty=20 # try changing this to higher number and you will see it will take more time for mining as difficulty increases
+    difficulty=10 # try changing this to higher number and you will see it will take more time for mining as difficulty increases
     import time
     start = time.time()
     st.write("start mining")
