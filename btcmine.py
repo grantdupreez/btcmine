@@ -1,3 +1,4 @@
+import streamlit as st
 from hashlib import sha256
 MAX_NONCE = 100000000000
 
